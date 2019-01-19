@@ -1,3 +1,11 @@
+This is fork from  https://github.com/sarveshchavan7/Quiz-Game 
+
+# New Feature
+- Add highscore
+- Add number of life
+- Add explanation if wrong answer
+
+
 # Quiz Game
 - Quiz game for android
 - Written by Sarvesh chavan
@@ -21,12 +29,12 @@
 - targetSdkVersion 25
 
 # Screenshots
-![screenshot_2017-09-12-18-09-11-050](https://user-images.githubusercontent.com/22947683/30327745-d58f6054-9792-11e7-95f6-cc58f26a87de.jpg)
-![screenshot_2017-09-12-18-10-14-944](https://user-images.githubusercontent.com/22947683/30327761-dc22de64-9792-11e7-8f07-2a470352d6ae.jpg)
-![screenshot_2017-09-12-18-11-59-568](https://user-images.githubusercontent.com/22947683/30327767-e06793ac-9792-11e7-93c4-4f952042b0ed.jpg)
-![screenshot_2017-09-12-18-09-28-914](https://user-images.githubusercontent.com/22947683/30327776-e5c1f022-9792-11e7-8063-903ad3c06c6c.jpg)
-![screenshot_2017-09-12-18-09-53-445](https://user-images.githubusercontent.com/22947683/30327780-e91bd936-9792-11e7-8050-a051439294d5.jpg)
-![screenshot_2017-09-12-18-11-44-119](https://user-images.githubusercontent.com/22947683/30327828-0c65a0ac-9793-11e7-987c-20c00e70ff8a.jpg))
+
+![photo_2019-01-20_00-41-47 2](https://user-images.githubusercontent.com/37230267/51429811-a3f03a00-1c4d-11e9-87f4-76f3a4cb4147.jpg)
+
+![photo_2019-01-20_00-41-48](https://user-images.githubusercontent.com/37230267/51429814-aeaacf00-1c4d-11e9-9fdb-d6b716ab5653.jpg)
+
+![photo_2019-01-20_00-41-47](https://user-images.githubusercontent.com/37230267/51429816-b5d1dd00-1c4d-11e9-8988-58f186ff38d6.jpg)
 
 
 
